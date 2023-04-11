@@ -12,7 +12,7 @@ SPEED = 2  # 1 is realtime, 2 is recommended
 
 # The function which describes the position of the moving object along the circle path with respect to time.
 # Modify the expression after the colon:
-FUNCTION = lambda x: x**2 - 7*x + 1
+FUNCTION = lambda x: x**2 - 7*x + 7
 
 
 def moving_rate(rule_function):

@@ -8,7 +8,7 @@ from sympy import diff, symbols, lambdify
 
 
 # Feel free to modify these parameters:
-SPEED = 1  # 1 is realtime, 2 is recommended
+SPEED = 2  # 1 is realtime, 2 is recommended
 
 # The function which describes the position of the moving object along the circle path with respect to time.
 # Modify the expression after the colon:
